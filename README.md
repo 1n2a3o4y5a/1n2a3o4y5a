@@ -1,5 +1,7 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=1n2a3o4y5a)![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=1n2a3o4y5a&repo=homebridge-switchbot-for-mac)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=1n2a3o4y5a)!
+
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/username=1n2a3o4y5a&repo=homebridge-switchbot-for-mac)
 
 <!--
 **1n2a3o4y5a/1n2a3o4y5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
